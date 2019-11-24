@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/run/media/blush/CLASS WORK/GRAPHICS.git/2d Transformation.h
+graphics.h
+-
+iostream
+-
+
 /run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h
 graphics.h
 -
@@ -67,6 +73,8 @@ question7.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/question7.h
 Bezier Curve.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h
+2d Transformation.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/2d Transformation.h
 iostream
 -
 

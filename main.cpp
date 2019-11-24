@@ -13,6 +13,7 @@
 #include "question6.h"
 #include "question7.h"
 #include "Bezier Curve.h"
+#include "2d Transformation.h"
 
 #include<iostream>
 
@@ -31,6 +32,8 @@ question6 obj6;
 question7 obj7;
 
 BezierCurve bezier_obj;
+
+two_d_Transformation two_d_obj;
 
 int main() {
     int x1, y1, x2, y2;
@@ -58,7 +61,9 @@ int main() {
     //obj6.cir_inside_square(xc, yc);
     //obj7.plot_graph(xc, yc);
 
-    bezier_obj.write_name();
+    //bezier_obj.write_name();
+
+    two_d_obj.input();
 
     delay(500000);
     return 0;
